@@ -1,0 +1,34 @@
+
+body{
+    background: url("notebook.jpg") no-repeat center center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand{
+    font-weight: bold;
+}
+
+.jumbotron{
+    background-color: transparent;
+    text-align: center;
+    letter-spacing: 2.5px;
+    padding: 15px;
+    margin-top: 200px;
+    font-weight: bold;
+}
+
+.button{
+    margin-top: 50px;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #bbd5e7;
+    padding-top: 10px;
+}
+
